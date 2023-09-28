@@ -12,5 +12,5 @@
           line: module-store = serge
           state: absent 
           #create: yes
-# This line is to test jenkins ci/cd build for yml files
+# We can make our day the best day ever. It is a beleive systemstate.
 # Let's make a little change on code5.yml
